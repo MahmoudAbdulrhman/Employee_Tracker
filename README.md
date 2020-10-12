@@ -32,7 +32,7 @@ gitHub link : https://github.com/MahmoudAbdulrhman/Employee_Tracker
 
 ## Screencastify
 
-[![Watch the Video](https://img.youtube.com/vi/o-oflxz55DM/0.jpg)](https://youtu.be/o-oflxz55DM "Team Profile Generator")
+[![Watch the Video](https://img.youtube.com/vi/o-oflxz55DM/0.jpg)](https://www.youtube.com/watch?v=UC4cXr5BPrc&feature=youtu.be "Employee_traker")
 
 <https://drive.google.com/file/d/1ob6g_fjY8XxvYGdIZAxM7VYQpcVfF-7J/view>
 
