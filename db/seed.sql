@@ -23,11 +23,11 @@ VALUES
 INSERT INTO employee
     (first_name, last_name, role_id, manager_id)
 VALUES
-    ('John', 'Doe', 1, NULL),
-    ('Mike', 'Chan', 2, 1),
-    ('Ashley', 'Rodriguez', 3, NULL),
-    ('Kevin', 'Tupik', 4, 3),
-    ('Kunal', 'Singh', 5, NULL),
-    ('Malia', 'Brown', 6, 5),
-    ('Sarah', 'Lourd', 7, NULL),
-    ('Tom', 'Allen', 8, 7);
+    ('Dwayn', 'Rock', 1, NULL),
+    ('Kevin', 'Heart', 2, 1),
+    ('Ashley', 'Simpson', 3, NULL),
+    ('Kids', 'Rock', 4, 3),
+    ('Solid', 'Sneak', 5, NULL),
+    ('Super', 'Mario', 6, 5),
+    ('Bruce', 'Wayen', 7, NULL),
+    ('John', 'Snow', 8, 7);

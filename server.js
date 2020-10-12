@@ -3,6 +3,13 @@ const inquirer = require('inquirer');
 
 
 function startPrompt() {
+  console.log(
+    `
+    +------------------+
+    | EMPLOYEE TRACKER |
+    +------------------+
+    `
+)
   inquirer
     .prompt({
       type: "list",
