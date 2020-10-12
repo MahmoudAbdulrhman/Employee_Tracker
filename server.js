@@ -55,10 +55,6 @@ function startPrompt() {
           employeeUpdate();
           break;
 
-        case "Update Employee Manager":
-          employeeManager();
-          break;
-
         case "Exit":
           connection.end();
           break;
@@ -285,36 +281,5 @@ function employeeUpdate() {
     });
 }
 
-function employeeManager() {
-  console.log('updating emp');
-  inquirer
-  .prompt({
-    name: "id",
-    type: "input",
-    message: "Enter employee id",
-  })
-  .then(function (answer) {
-    var id = answer.id;
 
-  inquirer
-    .prompt({
-      name: "employeeManager",
-      type: "input",
-      message: "What employee would you like to update the manager for?",
-      //choices: need to figure out if we want to pull this by employee and then prompt for manager name
-    })
-    .then(function (answer) {
-      var managerid = answer.employeeManager;
-      var query = "SELECT manager_id FROM employee WHERE ?";
-      connection.query(query,function (err, res) {
-        console.log(res);
-        for (var i = 0; i < res.length; i++) {
-          console.log(res[i].employee);
-        }
-  
-        startPrompt();
-      });
-    });
-  });
-}
 startPrompt();
