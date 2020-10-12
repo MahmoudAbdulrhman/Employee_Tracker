@@ -32,8 +32,8 @@ gitHub link : https://github.com/MahmoudAbdulrhman/Employee_Tracker
 
 ## Screencastify
 
-[![Watch the Video](https://img.youtube.com/vi/o-oflxz55DM/0.jpg)](https://www.youtube.com/watch?v=UC4cXr5BPrc&feature=youtu.be "Employee_traker")
+[![Watch the Video]](https://www.youtube.com/watch?v=UC4cXr5BPrc&feature=youtu.be "Employee_traker")
 
-<https://drive.google.com/file/d/1ob6g_fjY8XxvYGdIZAxM7VYQpcVfF-7J/view>
+<https://drive.google.com/file/d/1DGT5STnlkWRJHSOPCLq9qQDHXIclv0Tj/preview>
 
 Thank you
